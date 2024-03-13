@@ -2,10 +2,18 @@
     border: 2px solid violet;
     padding: 5px;
     margin: 10px;
-    border-radius: 20px;
-    display: grid;
+    border-radius: 10px;
+    /* display: grid; 
     align-items: center;
-    place-items: center;
+    place-items: center; */
 
 }
+
 /* this is a comment  */
+
+/* 
+.country-container {
+    display: grid;
+    grid-template-columns: (3, 1fr);
+    gap: 10px;
+} */
